@@ -1,0 +1,19 @@
+body{
+    height: 300px;
+    width: 300px;
+    background-color: black;
+    
+    font-size: medium;
+    justify-content: center;
+    display: flex;
+}
+p{
+    color: aqua;
+    margin:auto 10px;
+    padding: 30px;
+    border: 1px solid;
+}
+p:hover{
+    background-color: rgb(0, 124, 124);
+    color:whitesmoke
+}
